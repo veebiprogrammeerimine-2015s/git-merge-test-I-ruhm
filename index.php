@@ -5,6 +5,9 @@
     
     // Siia kirjutab Romil
     
+    // lisasin mõned enterid
+    
+    echo "Tere";
     
     
     // Siia kirjutab Martin
