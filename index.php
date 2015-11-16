@@ -11,5 +11,5 @@
     
     
     // Siia kirjutab Martin
-
+	echo "Tere Sullegi";
 ?>
